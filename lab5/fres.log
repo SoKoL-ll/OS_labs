@@ -1,0 +1,121 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Пн 14 дек 2020 02:28:39 MSK
+---------------------------------------------------
+Memory status MiB Mem :   8615,8 total,   6702,1 free,   1102,8 used,    810,8 buff/cache
+Swap status MiB Swap:   1103,7 total,   1103,7 free,      0,0 used.   7215,5 avail Mem 
+status of folowed processes
+   2463 sokol     20   0   22432  15920   2992 R 100,0   0,2   0:00.20 mem.bash
+   2464 sokol     20   0   22300  15976   3060 R 100,0   0,2   0:00.20 mem2.bash
+top 5 processes:
+mem.bash
+mem2.bash
+tracker-extract
+tracker-store
+gvfsd
+*******************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Пн 14 дек 2020 02:28:49 MSK
+---------------------------------------------------
+Memory status MiB Mem :   8615,8 total,   5541,2 free,   2257,5 used,    817,1 buff/cache
+Swap status MiB Swap:   1103,7 total,   1103,7 free,      0,0 used.   6054,7 avail Mem 
+status of folowed processes
+   2463 sokol     20   0  614188 607808   2992 R 100,0   6,9   0:10.41 mem.bash
+   2464 sokol     20   0  600856 594664   3060 R 100,0   6,7   0:10.41 mem2.bash
+top 5 processes:
+mem.bash
+mem2.bash
+gnome-shell
+Xorg
+MainThread
+*******************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Пн 14 дек 2020 02:28:59 MSK
+---------------------------------------------------
+Memory status MiB Mem :   8615,8 total,   4447,6 free,   3358,7 used,    809,6 buff/cache
+Swap status MiB Swap:   1103,7 total,   1103,7 free,      0,0 used.   4961,1 avail Mem 
+status of folowed processes
+   2463 sokol     20   0 1176508   1,1g   2992 R 100,0  13,3   0:20.59 mem.bash
+   2464 sokol     20   0 1165156   1,1g   3060 R 100,0  13,1   0:20.58 mem2.bash
+top 5 processes:
+mem2.bash
+mem.bash
+gnome-shell
+Xorg
+gnome-termi+
+*******************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Пн 14 дек 2020 02:29:09 MSK
+---------------------------------------------------
+Memory status MiB Mem :   8615,8 total,   3323,1 free,   4483,0 used,    809,7 buff/cache
+Swap status MiB Swap:   1103,7 total,   1103,7 free,      0,0 used.   3836,7 avail Mem 
+status of folowed processes
+   2463 sokol     20   0 1752688   1,7g   2992 R 100,0  19,8   0:30.81 mem.bash
+   2464 sokol     20   0 1737772   1,7g   3060 R 100,0  19,6   0:30.79 mem2.bash
+top 5 processes:
+mem.bash
+mem2.bash
+tracker-sto+
+tracker-ext+
+systemd
+*******************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Пн 14 дек 2020 02:29:20 MSK
+---------------------------------------------------
+Memory status MiB Mem :   8615,8 total,   2209,5 free,   5596,6 used,    809,7 buff/cache
+Swap status MiB Swap:   1103,7 total,   1103,7 free,      0,0 used.   2723,1 avail Mem 
+status of folowed processes
+   2463 sokol     20   0 2318704   2,2g   2992 R 100,0  26,2   0:41.01 mem.bash
+   2464 sokol     20   0 2309464   2,2g   3060 R 100,0  26,1   0:40.99 mem2.bash
+top 5 processes:
+mem.bash
+mem2.bash
+systemd
+kthreadd
+rcu_gp
+*******************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Пн 14 дек 2020 02:29:30 MSK
+---------------------------------------------------
+Memory status MiB Mem :   8615,8 total,   1104,4 free,   6701,7 used,    809,7 buff/cache
+Swap status MiB Swap:   1103,7 total,   1103,7 free,      0,0 used.   1618,0 avail Mem 
+status of folowed processes
+   2463 sokol     20   0 2878780   2,7g   2992 R 100,0  32,6   0:51.24 mem.bash
+   2464 sokol     20   0 2879044   2,7g   3060 R 100,0  32,6   0:51.22 mem2.bash
+top 5 processes:
+mem.bash
+mem2.bash
+MainThread
+systemd
+kthreadd
+*******************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Пн 14 дек 2020 02:29:40 MSK
+---------------------------------------------------
+Memory status MiB Mem :   8615,8 total,    123,8 free,   7812,5 used,    679,6 buff/cache
+Swap status MiB Swap:   1103,7 total,   1102,4 free,      1,3 used.    511,3 avail Mem 
+status of folowed processes
+   2463 sokol     20   0 3439912   3,3g   2628 R  93,8  38,9   1:01.43 mem.bash
+   2464 sokol     20   0 3449944   3,3g   2724 R  93,8  39,0   1:01.42 mem2.bash
+top 5 processes:
+mem.bash
+mem2.bash
+tracker-sto+
+kswapd0
+tracker-min+
+*******************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Пн 14 дек 2020 02:30:00 MSK
+---------------------------------------------------
+Memory status MiB Mem :   8615,8 total,    126,2 free,   8343,1 used,    146,5 buff/cache
+Swap status MiB Swap:   1103,7 total,    393,2 free,    710,5 used.     39,3 avail Mem 
+status of folowed processes
+   2463 sokol     20   0 4086712   3,9g    724 R  69,6  46,2   1:12.98 mem.bash
+   2464 sokol     20   0 4080640   3,9g    724 R  65,2  46,2   1:12.54 mem2.bash
+top 5 processes:
+mem.bash
+mem2.bash
+snapd
+tracker-sto+
+kswapd0
+*******************************
